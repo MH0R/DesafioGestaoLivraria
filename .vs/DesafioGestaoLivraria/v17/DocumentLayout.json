@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|c:\\users\\thalles\\source\\repos\\desafiogestaolivraria\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|c:\\users\\thalles\\source\\repos\\desafiogestaolivraria\\communication\\requests\\requestbookupdatejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|solutionrelative:communication\\requests\\requestbookupdatejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|c:\\users\\thalles\\source\\repos\\desafiogestaolivraria\\communication\\requests\\requestbookregisterjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|solutionrelative:communication\\requests\\requestbookregisterjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|c:\\users\\thalles\\source\\repos\\desafiogestaolivraria\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|solutionrelative:books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|c:\\users\\thalles\\source\\repos\\desafiogestaolivraria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|c:\\users\\thalles\\source\\repos\\desafiogestaolivraria\\controllers\\desafiogestaolivrariabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1ED2F33-6F5F-4E3B-950A-35FF6607B135}|DesafioGestaoLivraria.csproj|solutionrelative:controllers\\desafiogestaolivrariabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestBookUpdateJson.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Communication\\Requests\\RequestBookUpdateJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Requests\\RequestBookUpdateJson.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Communication\\Requests\\RequestBookUpdateJson.cs",
+              "RelativeToolTip": "Communication\\Requests\\RequestBookUpdateJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:44:01.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestBookRegisterJson.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Communication\\Requests\\RequestBookRegisterJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Requests\\RequestBookRegisterJson.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Communication\\Requests\\RequestBookRegisterJson.cs",
+              "RelativeToolTip": "Communication\\Requests\\RequestBookRegisterJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:08:50.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Books.cs",
+              "RelativeDocumentMoniker": "Books.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Books.cs",
+              "RelativeToolTip": "Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:40:53.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesafioGestaoLivrariaBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Controllers\\DesafioGestaoLivrariaBaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DesafioGestaoLivrariaBaseController.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Controllers\\DesafioGestaoLivrariaBaseController.cs",
+              "RelativeToolTip": "Controllers\\DesafioGestaoLivrariaBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:27:23.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwGoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:26:08.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Thalles\\source\\repos\\DesafioGestaoLivraria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:21:44.86Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
